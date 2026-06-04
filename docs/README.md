@@ -1,12 +1,28 @@
 
-# Documentação
+# Documentação do Projeto SGLB
 
-Esta pasta contém a documentação do projeto acadêmico SGLB.
+Esta seção reúne toda a documentação produzida durante o desenvolvimento do projeto.
 
-## Conteúdo
+## Estrutura
 
-- Diagrama de Caso de Uso
+### 📁 diagramas
+
+Contém:
+
+- Caso de Uso
 - Diagrama de Sequência
 - Diagrama de Classes
-- Fluxograma do Processo
-- Relatórios e documentação complementar
+- Fluxograma Vertical
+- Fluxograma Horizontal
+
+### 📁 prototipo
+
+Contém:
+
+- Documento de Requisitos
+- Protótipo Navegável
+- Apresentação do Projeto
+
+---
+
+Consulte os READMEs de cada pasta para mais detalhes.
