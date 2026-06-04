@@ -12,7 +12,7 @@ O objetivo do projeto é modelar e prototipar um sistema capaz de auxiliar o ger
 * Cardápios
 * Logística
 * Execução de eventos
-* Controle financeiro
+* Controle Financeiro
 
 ---
 
