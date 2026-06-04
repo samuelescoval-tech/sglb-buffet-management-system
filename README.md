@@ -1,4 +1,5 @@
 # SGLB – Sistema de Gestão de Licitações e Buffet
+Sistema acadêmico para gerenciamento de licitações, cardápios, logística e operações de buffet.
 
 ## Sobre o Projeto
 
