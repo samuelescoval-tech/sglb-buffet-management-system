@@ -39,6 +39,18 @@ Contém os documentos produzidos durante a fase de prototipagem.
 
 ---
 
+## Como consultar o projeto
+
+1. Leia a [documentação geral](docs/README.md).
+2. Consulte os [diagramas UML e fluxogramas](docs/diagramas/).
+3. Abra o [documento de requisitos](docs/prototipo/01-Documento-Requisitos.pdf),
+   o [protótipo em PDF](docs/prototipo/02-Prototipo-SGLB.pdf) e a
+   [apresentação](docs/prototipo/03-Apresentacao-Projeto.pdf).
+4. Utilize os links da seção **Protótipo Interativo** para acessar as versões navegáveis.
+
+O repositório reúne documentação e prototipagem; não há uma aplicação local
+com instruções de instalação ou execução.
+
 ## Ferramentas Utilizadas
 
 * Lucidchart
